@@ -1,0 +1,6 @@
+Egyszerű használhatóság
+
+Minden elemnél törekedjünk az egyszerűségre és gyors használhatóságra, 
+így például a több kitöltés érdekében minél kevesebb kitöltendő mezőt tervezzünk 
+űrlapjainkhoz. Legyenek lényegretörőek, közvetlenül elérhetőek a szolgáltatáshoz 
+kapcsolódó aloldalak.
